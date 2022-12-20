@@ -1,4 +1,3 @@
-<<<<<<< My-First--Branch
 # This is an <h1> header, which is the largest
 ## This is an <h2> header
 ###### This is an <h6> header, which is the smallest
@@ -14,6 +13,3 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
   - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
-=======
-
->>>>>>> main
